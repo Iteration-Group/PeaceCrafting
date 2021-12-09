@@ -4,7 +4,7 @@ Some people do not like playing Minecraft with Monsters enabled. I certainly don
 I haven't seen enough datapacks that seem to include crafting recipies for items that can only be obtained through monsters! Hence, the existence of PeaceCrafting!
 
 # How do you load PeaceCrafting?
-Simple! Just go to our CurseForge page (N/A) to download it! Alternativly, download the code from this Github page to access it directl or go to Releases in Gighub and downoad it from there! Then, dran and drop the ZIP file into the datapacks file for your world, and voila! Try crafting something! As a side note, using this datapack on worlds 1.11> WILL NOT WORK!. Ever since 1.12, Minecraft have utilised a JSON system for crafting recipes. Older versions (1.11>) do not have such a feature. 
+Simple! Just go to our CurseForge page (https://www.curseforge.com/minecraft/customization/peacecrafting) to download it! Alternativly, download the code from this Github page to access it directl or go to Releases in Gighub and downoad it from there! Then, dran and drop the ZIP file into the datapacks file for your world, and voila! Try crafting something! As a side note, using this datapack on worlds 1.11> WILL NOT WORK!. Ever since 1.12, Minecraft have utilised a JSON system for crafting recipes. Older versions (1.11>) do not have such a feature. 
 
 # How do you use PeaceCrafting?
 PeaceCrafting utilises Minecraft's Shapeless Crafting feature. For an example: Gunpowder is crafted using grey dye, bone meal and flint. This yields 3 gunpowwder. You can place these 3 items anywhere in the table. This will work:
