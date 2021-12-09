@@ -19,78 +19,83 @@ I think we get the gist. This applies to every new craftable item in the game.
 
 # How do we craft new items?
 The recipies for the new items are below. Some may be a bit strange and wacky, but I am trying to give these items a purporse rather than just leaving them:
+
+String:
+White_Dye,
+White_Wool
+
 Blaze Rod:
-Wheat
-Lilac
-Coal
-TNT
+Wheat,
+Lilac,
+Coal,
+TNT,
 Glowstone Dust
 
 Gunpowder:
-Coal
-Sugar
+Coal,
+Sugar,
 Grey Dye
 
 Phantom membrane:
-Lily pad
-Glowstone Block
-Peony
+Lily pad,
+Glowstone Dust,
+Peony,
 
 Ghast tear:
-Nether wart
+Nether wart,
 Blaze Powder
 
 Slimeball:
-Scute
+Scute,
 Lily pad
 
 Spider Eye:
-Red dye
-Posion potato
-Sunflower
+Red dye,
+Posion potato,
+Sunflower,
 Pink Dye
  
 Bone:
-Sugar Cane
+Sugar Cane,
 Bone Meal
 
 Leather:
-Oak Leaves
-Clay Block
-Glow Lichen
+Oak Leaves,
+Clay Block,
+Glow Lichen,
 Ameythest shard
 
 Elytra:
-Map
-Crossbow
-Paper
-Grey Dye
+Map,
+Crossbow,
+Paper,
+Grey Dye,
 Bone Meal
 
 Zombie Head:
-Lime Dye
-Bone
+Lime Dye,
+Bone,
 Rotten flesh
 
 Creeper Head:
-Green Dye
-Bone
+Green Dye,
+Bone,
 Rotten flesh
 
 Dragon Head:
-Black Dye
-Scute
+Black Dye,
+Scute,
 Dried Kelp Block
 
 Rotten Flesh:
-Porkchop (raw)
-Brown Mushroom
+Porkchop (raw),
+Brown Mushroom,
 Sugar
 
 Nether Star:
-Diamond
-Tinted Glass (x2)
-Netherite Ingot
+Diamond,
+Tinted Glass (x2),
+Netherite Ingot,
 End Crystal
 
 # Acknowledgements
