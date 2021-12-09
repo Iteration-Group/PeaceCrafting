@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:map"
+        },
+        {
+            "item": "minecraft:crossbow"
+        },
+        {
+            "item": "minecraft:bone_meal"
+        },
+        {
+            "item": "minecraft:gray_dye"
+        },
+        {
+            "item": "minecraft:paper"
+        }
+    ],
+    "result": {
+        "item": "minecraft:elytra",
+        "count": 1
+    }
+}

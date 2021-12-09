@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:oak_leaves"
+        },
+        {
+            "item": "minecraft:clay"
+        },
+        {
+            "item": "minecraft:amethyst_shard"
+        },
+        {
+            "item": "minecraft:glow_lichen"
+        }
+    ],
+    "result": {
+        "item": "minecraft:leather",
+        "count": 64
+    }
+}
