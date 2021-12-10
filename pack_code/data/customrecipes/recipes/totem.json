@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:gold_ingot"
+        },
+        {
+            "item": "minecraft:black_dye"
+        },
+        {
+            "item": "minecraft:end_crystal"
+        },
+		{
+            "item": "minecraft:netherite_ingot"
+        }
+    ],
+    "result": {
+        "item": "minecraft:totem_of_undying",
+        "count": 2
+    }
+}
