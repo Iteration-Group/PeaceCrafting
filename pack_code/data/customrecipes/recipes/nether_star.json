@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:diamond"
+        },
+        {
+            "item": "minecraft:tinted_glass"
+        },
+        {
+            "item": "minecraft:end_crystal"
+        },
+        {
+            "item": "minecraft:tinted_glass"
+        },
+        {
+            "item": "minecraft:netherite_ingot"
+        }
+    ],
+    "result": {
+        "item": "minecraft:nether_star",
+        "count": 1
+    }
+}
