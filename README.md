@@ -98,6 +98,52 @@ Tinted Glass (x2),
 Netherite Ingot,
 End Crystal
 
+Wait Disc:
+Gold Ingot,
+Light Blue Dye,
+Blue Dye
+
+Ward Disc:
+Gold Ingot,
+Green Dye,
+Lime Dye
+
+Strad Disc:
+Gold Ingot,
+White Dye,
+Light gray Dye
+
+Stal Disc:
+Gold Ingot,
+Black Dye (x2)
+
+Mellohi Disc:
+Gold Ingot,
+Magenta Dye,
+White Dye
+
+Mall Disc:
+Gold Ingot,
+Purple Dye (x2)
+
+Far Disc:
+Gold Ingot,
+Green Dye,
+Yellow Dye
+
+Chirp Disc:
+Gold Ingot,
+Red Dye,
+Black Dye
+
+Blocks Disc:
+Gold Ingot,
+Red dye (x2)
+
+
+
+
+
 # Acknowledgements
 https://crafting.thedestruc7i0n.ca/, for JSON templates and images for crafting
 
