@@ -145,9 +145,20 @@ Blocks Disc:
 Gold Ingot,
 Red dye (x2)
 
+Trident:
+Diamond,
+Stick,
+Nether Quartz,
+Netherite Ingot
 
+Prismarine Shard (yields 4):
+Prismarine Block
 
-
+Totem:
+Gold Ingot
+Black Dye
+End Crystal
+Netherite Ingot
 
 # Acknowledgements
 https://crafting.thedestruc7i0n.ca/, for JSON templates and images for crafting
