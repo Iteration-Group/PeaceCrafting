@@ -20,6 +20,11 @@ I think we get the gist. This applies to every new craftable item in the game.
 # How do we craft new items?
 The recipies for the new items are below. Some may be a bit strange and wacky, but I am trying to give these items a purporse rather than just leaving them:
 
+Ender Pearl:
+Ink Sac,
+Green Dye,
+Apple 
+
 String:
 White_Dye,
 White_Wool
